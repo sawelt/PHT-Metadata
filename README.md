@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11189954.svg)](https://doi.org/10.5281/zenodo.11189954)
+
 # DAMS Repository
 This repository contains the Personal Health Train Metadata schema, as described in DAMS: A Distributed Analytics Metadata Schema (Link tba). This schema aims at making our work openly accessible and to promote discussion and feedback for it. Note that the metadata schema is still under developement and can therefore change.
 ## Content
